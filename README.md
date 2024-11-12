@@ -1,3 +1,13 @@
+![Screenshot 2024-11-12 071846](https://github.com/user-attachments/assets/24ff1ba5-c4d2-4f0f-8a38-1a9b73d3df95)
+![Screenshot 2024-11-12 071834](https://github.com/user-attachments/assets/f8a8822f-0fbf-4603-9c91-a959d5d95151)
+![Screenshot 2024-11-12 071820](https://github.com/user-attachments/assets/5e7fbb67-f76e-4a60-81d2-6b0d398f7e29)
+![Screenshot 2024-11-12 071808](https://github.com/user-attachments/assets/fcd516bb-72ff-4b5a-a28f-c406ee7dff5b)
+![Screenshot 2024-11-12 071753](https://github.com/user-attachments/assets/9c130f36-1667-4650-93b0-f4e85629937c)
+![Screenshot 2024-11-12 071742](https://github.com/user-attachments/assets/461e11cc-b3b5-49af-9082-ff1886a5b6d2)
+![Screenshot 2024-11-12 071730](https://github.com/user-attachments/assets/f07d3f82-3627-491c-8711-7d8a52528174)
+
+
+
 # Diwali_Sales_Analysis
 <b>Situation<br></b>
 The task involved analyzing Diwali sales data to uncover insights into sales patterns, customer behaviors, and factors affecting purchase trends. The objective was to generate actionable recommendations for enhancing sales performance and understanding the market during the Diwali season.<br>
